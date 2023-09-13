@@ -1,1 +1,2 @@
 # dice-game
+C program that simulates a dice game with two players, who take turns rolling a dice and accumulating points based on the outcome of each round. The game consists of a specified number of rounds, and the player with the most points at the end of the game wins. Used a .main, .c, and .h file. Used user input, random number generation, conditional statements and loops, logical operations, and enumeration. 
